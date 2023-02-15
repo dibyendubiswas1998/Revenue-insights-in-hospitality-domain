@@ -42,6 +42,33 @@ In month of June (June month have 30 days), you have (30 x 100) = 3000 rooms to 
 
 * **DURN (Daily Utilized Room Nights):** DURN means, how many rooms are occupied by customer in a night.
 
+
 ## Insights:
+**Overall Insights:**
+* Revenue collection from selling rooms: 1.41bn INR;
+* Revenue collection from cancellation or cross-selling products: 299.66M INR;
+* Almost 62% revenue genereted from Luxury hotels & 32 % from Business hotesl;
+* Daily Utilized Room Nights is low comapre to daily selling rooms;
+* In Luxery hotels:
+	* Occ %: 58%
+	* ADR: 14.79k INR
+	* RevPAR: 8.5k INR
+	* ALOS: 1.21
+	* Realization: 70.17%
+	* most of hotels are booked from "Others" platforms.
+* Revenue collections are falling after week no. 30;
+* In Weekday occ% is low, so ADR also low;
+* In Weekend occ% is high so ADR also high;
+* All the hotels are followed static pricing;
+* Due low ratings Occupancy % also low;
+* Highest Revenue share: Mumbai City, i.e.: 39.13%;
+* In Mumbai, ovarall	
+	* ADR: 18.08k INR
+	* RevPAR: 10k INR
+	* ALOS: 1.17
+* In month of May, revenue is generated more, i.e.: 581.93M INR;
+* Most of Booking Rooms are Elite Category;
+* Atliq Exotica in Mumbai get highest avg. ratings (4.32), and occ %: 66.5%
+* Atliq Seasons in Mumbai get lowest avg. ratings (2.29), and occ %: 44.62%
 
 
