@@ -11,7 +11,9 @@ As a strategic move, the managing director of AtliQ Grands wanted to incorporate
 **Link:** https://github.com/dibyendubiswas1998/Revenue-insights-in-hospitality-domain/tree/main/DATA
 
 ## Power Bi Code:
-**Code:** https://github.com/dibyendubiswas1998/Revenue-insights-in-hospitality-domain/tree/main/Power%20Bi%20Code
+**Code:** https://github.com/dibyendubiswas1998/Revenue-insights-in-hospitality-domain/tree/main/Power%20Bi%20Code <br><br>
+![Dashboard Pics](https://user-images.githubusercontent.com/67157274/219069476-db88843a-b510-4ef2-8f12-4aaf65d3fde1.PNG)
+<br><br>
 
 
 ## Important Matrix: 
